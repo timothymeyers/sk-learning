@@ -1,5 +1,8 @@
 # Backend dependencies
 semantic-kernel==1.27.2
 semantic-kernel[azure]
+azure-ai-projects
+azure-identity
+openai
 flask==2.3.2
 requests==2.31.0
