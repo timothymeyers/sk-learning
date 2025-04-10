@@ -1,0 +1,4 @@
+# Backend dependencies
+semantic-kernel[azure]==1.27.2
+flask==2.3.2
+requests==2.31.0
